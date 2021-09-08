@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+body {
+    background-color: #f4f4f4;
+    padding: 3% 10%;
+    font-family: "Roboto";
+}
+
+header {
+    background-color: #44bca1;
+    border: grey 3px solid;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    padding: 5%;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#root {
+    font-size: 1.2em;
+    color: #333333;
+}
+
+.title_card {
+    background-color: #ffffff;
+    margin: 10px 0px 0px 0px;
+    padding: 5%;
+}
+
+.title_card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 1px lightgrey solid;
+    border-radius: 15px;
+    width: 70%;
+}
+
+.step_card {
+    background-color: #ffffff;
+    padding: 2% 1%;
+    margin: 25px;
+}
+
+.step_title {
+    color: grey;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.step_card a {
+    text-decoration: none;
+    color: #42b4e6;
+}
+
+.step_card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 1px lightgrey solid;
+    border-radius: 15px;
+    width: 70%;
+}
+
+.comments_card {
+    background-color: #ffffff;
+    padding: 2% 1%;
+    margin: 25px;
+}
+
+.comments_card p {
+    font-size: 0.9em;
+    color: gray;
+}
+
+.awk {
+    background-color: #ffffff;
+    padding: 2% 1%;
+    margin: 25px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: 950;
+}
