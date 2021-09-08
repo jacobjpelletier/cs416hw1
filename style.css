@@ -57,6 +57,11 @@ header h1 {
     color: #42b4e6;
 }
 
+.step_card a:hover {
+    text-decoration: none;
+    color: #42b4b0;
+}
+
 .step_card img {
     display: block;
     margin-left: auto;
