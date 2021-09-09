@@ -26,7 +26,7 @@ header h1 {
 
 .title_card {
     background-color: #ffffff;
-    margin: 10px 0px 0px 0px;
+    margin: 3% 0%;
     padding: 5%;
 }
 
@@ -52,13 +52,13 @@ header h1 {
     font-weight: bold;
 }
 
-.step_card a {
+a {
     text-decoration: none;
     color: #42b4e6;
 }
 
-.step_card a:hover {
-    text-decoration: none;
+a:hover {
+    text-decoration: underline;
     color: #42b4b0;
 }
 
@@ -67,7 +67,7 @@ header h1 {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    border: 1px lightgrey solid;
+    border: 1px silver solid;
     border-radius: 15px;
     width: 70%;
 }
