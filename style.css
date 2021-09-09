@@ -49,7 +49,7 @@ header h1 {
 .step_title {
     color: grey;
     font-size: larger;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 a {
@@ -87,6 +87,10 @@ a:hover {
     background-color: #ffffff;
     padding: 2% 1%;
     margin: 25px;
+}
+
+.awk_title {
+    font-weight: bold;
 }
 
 .underline {
